@@ -1,1 +1,4 @@
-(()=>{"use strict";window.classtopiaCompRand="shield-comprand"})();
+(() => {
+    "use strict";
+    window.classtopiaCompRand = "shield-comprand"
+})();
